@@ -1,0 +1,14 @@
+body {
+background-color: darkred;
+color: aliceblue;
+font-family: 'Courier New', Courier, monospace;
+border-style: double;
+border-width: thick;
+outline: hotpink;
+outline-style: dashed;
+outline-width: medium;
+cursor: crosshair;
+
+
+
+}
